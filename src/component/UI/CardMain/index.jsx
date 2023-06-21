@@ -1,9 +1,4 @@
-import React, { useState, useEffect } from "react";
-import { useForm } from "react-hook-form";
-
-import InputMain from "../../UI/InputMain";
-import Button from "../../UI/Button/index";
-import FormMain from "../../UI/FormMain/index";
+import React from "react";
 
 import "../CardMain/index.scss";
 

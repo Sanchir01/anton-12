@@ -5,10 +5,6 @@ import "../Button/index.scss";
 const Button = ({ name, type, disabled }) => {
   const [button, setButton] = useState(false);
 
-  // if(){
-
-  // }
-
   return (
     <div>
       <div

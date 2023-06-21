@@ -5,7 +5,7 @@ import Input from "../../UI/Input/Input";
 
 import "../Form/index.scss";
 
-const Form = ({ onSubmit, register, errors, disabled, title, name }) => {
+const Form = ({ onSubmit, register, errors, disabled, title }) => {
   return (
     <div className="form__box">
       <h1 className="form__box-title">{title}</h1>
@@ -17,7 +17,7 @@ const Form = ({ onSubmit, register, errors, disabled, title, name }) => {
           register={register}
           errors={errors}
           name={"login"}
-          rules={{ required: "Введите email!" }}
+          errorName={errors.email}
         />
         <Input
           placeholder={"Введите пароль!"}
@@ -26,7 +26,7 @@ const Form = ({ onSubmit, register, errors, disabled, title, name }) => {
           register={register}
           errors={errors}
           name={"password"}
-          rules={{ required: "Введите пароль!" }}
+          errorName={errors.password}
         />
         <Button name={"Войти"} disabled={disabled} />
       </form>

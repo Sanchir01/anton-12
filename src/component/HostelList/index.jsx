@@ -3,7 +3,7 @@ import React from "react";
 import CardMain from "../../component/UI/CardMain";
 import Slider from "../UI/Slider";
 import ItemList from "../../component/UI/ItemList";
-import Breadcrumbs from "../UI/Breadcrumbs";
+import MuiBreadcrumbs from "../UI/MuiBreadcrumbs";
 
 import "../HostelList/index.scss";
 
@@ -13,7 +13,7 @@ const HostelList = () => {
       <div className="hostellist__box">
         <CardMain>
           <div className="hostellist__box-inner">
-            <Breadcrumbs />
+            <MuiBreadcrumbs />
             <Slider />
             <ItemList />
           </div>

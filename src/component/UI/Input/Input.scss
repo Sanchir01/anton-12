@@ -26,8 +26,6 @@
         box-sizing: border-box;
 
         
-
-        // margin-top: 7px;
         display: flex;
         flex-direction: row;
         align-items: flex-start;
@@ -52,8 +50,10 @@
     }
 
     &-error_alert{
-        color:red
+        color:red;
+        
     }
+    
 
 
 }

@@ -1,8 +1,5 @@
 import React from "react";
 
-import Button from "../../UI/Button/index";
-import InputMain from "../../UI/InputMain";
-
 import "../FormMain/index.scss";
 
 const FormMain = ({ onSubmit, children, title }) => {

@@ -1,15 +1,19 @@
 [
-    {"name": "Moscow", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Elista", "price": 23000, "date": "8 июля 2020 - 2 день",  "rating": 3},
-    {"name": "St Peretsburg", "price": 25000, "date": "9 июля 2020 - 3 день",  "rating": 3},
-    {"name": "Kazan", "price": 26000, "date": "10 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Volgodrad", "price": 27000, "date": "11 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Rostov", "price": 28000, "date": "12 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Minsk", "price": 29000, "date": "13 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Kyiv", "price": 20000, "date": "14 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Rome", "price": 21000, "date": "15 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Paris", "price": 22000, "date": "16 июля 2020 - 1 день",  "rating": 3},
-    {"name": "London", "price": 24000, "date": "17 июля 2020 - 1 день",  "rating": 3},
-    {"name": "Pekin", "price": 24000, "date": "18 июля 2020 - 1 день",  "rating": 3}
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3},
+    {"name": "Moscow Marriott Grand Hotel", "price": 24000, "date": "7 июля 2020 - 1 день",  "rating": 3}
     
 ]
