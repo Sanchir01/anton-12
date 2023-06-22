@@ -1,10 +1,23 @@
 .itemlist{
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
+   
     padding: 0px;
     gap: 12px;
     
     width: 600px;
     height: 563px;
+    .table{
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        align-items: center;
+    }
+}
+.stroke{
+    display: flex;
+   gap: 40px;
+    color: red;
+}
+.price{
+    display: flex;
+    gap: 10px;
 }

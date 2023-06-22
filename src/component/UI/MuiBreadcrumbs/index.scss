@@ -1,27 +1,11 @@
-.breadcrumbs{
-    
-    font-size: 32px;
-    color: #424242;
-   
+.main{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    .otel{
+        font-size: 30px;
+    }
+    .city{
+        font-size: 30px;
+    }
 }
-
-
-
-// .breadcrumbs_box{
-
-
-//     &-hostels{
-//         display: flex;
-//         flex-direction: row;
-//         justify-content: space-between;
-//         align-items: center;
-//         padding: 0px;
-//         gap: 42px;
-        
-//         width: 600px;
-//         height: 38px;
-        
-    
-
-//     }
-//     }

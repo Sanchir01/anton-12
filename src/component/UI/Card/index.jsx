@@ -17,7 +17,6 @@ const Card = ({ title, data }) => {
 
   const onSubmit = async (data) => {
     try {
-      console.log(data);
       resetField("login");
       resetField("password");
     } catch (error) {
