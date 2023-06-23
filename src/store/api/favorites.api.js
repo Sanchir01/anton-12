@@ -8,4 +8,4 @@ export const favoritesApi = api.injectEndpoints({
 	})
 })
 
-export const { useGetAllQuery } = api
+

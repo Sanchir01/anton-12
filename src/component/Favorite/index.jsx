@@ -2,7 +2,8 @@ import React from "react";
 
 import CardMain from "../../component/UI/CardMain";
 import FormMain from "../../component/UI/FormMain";
-import ItemList from "../UI/ItemList";
+
+import FavoritesList from '../UI/FavoritesList/FavoritesList';
 import Options from "../UI/Options";
 
 const Favorite = () => {
@@ -12,7 +13,7 @@ const Favorite = () => {
         <CardMain>
           <FormMain title={"Избранное"}>
             <Options />
-            <ItemList></ItemList>
+           <FavoritesList/>
           </FormMain>
         </CardMain>
       </div>
